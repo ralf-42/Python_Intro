@@ -1,6 +1,16 @@
-# Ignoriere alle Dateien und Verzeichnisse
+# Ignoriere Verzeichnisse
 /*
 /*/_misc
+
+# Ignoriere Dateien nach einem vorgegebenen Muster
+*.pptx
+*.png
+*.jpeg
+*.jpg
+*.docx
+
+# Ignoriere Dateien
+03 doc/Vita.pdf"
 
 # Erlaube Git, spezifische Verzeichnisse/Dateien zu verfolgen
 !.gitignore
@@ -9,13 +19,3 @@
 !02 data/
 !03 doc/
 !04 model/
-
-# Dateien ausschließen
-03_doc/Kurz_Vita.pdf"
-
-# Dateien nach einem vorgegebenen Muster ausschließen
-*.pptx
-*.png
-*.jpeg
-*.jpg
-*.docx
