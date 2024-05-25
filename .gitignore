@@ -5,13 +5,13 @@
 # Erlaube Git, spezifische Verzeichnisse/Dateien zu verfolgen
 !.gitignore
 !README.md
-!01_ipynb/
-!02_data/
-!03_doc/
-!04_model/
+!01 ipynb/
+!02 data/
+!03 doc/
+!04 model/
 
 # Dateien ausschließen
-03_doc/Kurz-Vita.pdf"
+03_doc/Kurz_Vita.pdf"
 
 # Dateien nach einem vorgegebenen Muster ausschließen
 *.pptx
