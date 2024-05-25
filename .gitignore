@@ -3,7 +3,7 @@
 /*/_misc
 /*/*/_misc
 
-# Ignoriere Dateien nach einem vorgegebenen Muster
+# Ignoriere Dateien nach Muster
 *.pptx
 *.png
 *.jpeg
@@ -13,7 +13,7 @@
 # Ignoriere Dateien
 03 doc/Vita.pdf
 
-# Erlaube Git, spezifische Verzeichnisse/Dateien zu verfolgen
+# Erlaube Verzeichnisse/Dateien 
 !README.md
 !01 ipynb/
 !02 data/
