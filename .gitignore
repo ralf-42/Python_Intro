@@ -3,6 +3,7 @@
 
 # Erlaube Git, spezifische Verzeichnisse/Dateien zu verfolgen
 !.gitignore
+!README.md
 !/01_ipynb/*
 !/02_data/*
 !/03_doc/*
