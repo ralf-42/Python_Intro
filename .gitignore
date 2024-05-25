@@ -1,16 +1,17 @@
 # Ignoriere alle Dateien und Verzeichnisse
 /*
+/*/_misc
 
 # Erlaube Git, spezifische Verzeichnisse/Dateien zu verfolgen
 !.gitignore
 !README.md
-!/01_ipynb/
-!/02_data/
-!/03_doc/
-!/04_model/
+!01_ipynb/
+!02_data/
+!03_doc/
+!04_model/
 
 # Dateien ausschließen
-/03_doc/Kurz-Vita.pdf"
+03_doc/Kurz-Vita.pdf"
 
 # Dateien nach einem vorgegebenen Muster ausschließen
 *.pptx
