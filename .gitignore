@@ -4,13 +4,13 @@
 
 # Erlaube Git, spezifische Verzeichnisse/Dateien zu verfolgen
 !.gitignore
-!01 ipynb/*
-!02 data/*
-!03 doc/*
-!04 model/*
+!/01 ipynb/*
+!/02 data/*
+!/03 doc/*
+!/04 model/*
 
 # Dateien ausschließen
-03 doc/Kurz-Vita.pdf"
+/03 doc/Kurz-Vita.pdf"
 
 # Dateien nach einem vorgegebenen Muster ausschließen
 *.pptx
