@@ -1,6 +1,7 @@
 # Ignoriere Verzeichnisse
 /*
 /*/_misc
+/*/*/_misc
 
 # Ignoriere Dateien nach einem vorgegebenen Muster
 *.pptx
