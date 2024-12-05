@@ -19,3 +19,24 @@ def swap_case(s):
         else: st = st.lower() 
         st1 = st1 + st           
     return st1
+#
+#
+def caesar(text, verschiebung):
+    """
+    Verschlüsselt einen gegebenen Text mittels einer einfachen Caesar-Verschlüsselung.
+
+    Args:
+        text (str): Der zu verschlüsselnde Text.
+        verschiebung (int): Die Anzahl der Stellen, um die jeder Buchstabe im Alphabet verschoben wird.
+
+    Returns:
+        str: Der verschlüsselte Text.
+    """
+
+    verschluesselter_text = ""
+
+    for char in text:
+        index = ord(char) + verschiebung
+        verschluesselter_text += chr(index)
+
+    return verschluesselter_text
