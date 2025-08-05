@@ -1,6 +1,5 @@
 ## Einführung in die Programmierung mit Python
 
----
 
 Hier finden Sie alle Unterlagen zum Kurs. 😉
 
