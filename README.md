@@ -14,7 +14,6 @@ Python_Intro/
 │   ├── B030-Gemini-Colab.ipynb # Google Colab Integration
 │   ├── B100-Intro-Python_.ipynb # Python-Grundlagen (Alternative)
 │   ├── T100-Intro-Python_.ipynb # Tutorial-Version
-│   ├── CLAUDE.md               # Claude Code Konfiguration
 │   └── MyPackage/              # Python-Module
 │       ├── MyModul.py          # Hilfsfunktionen
 │       └── Class_Auto.py       # OOP-Beispielklasse
@@ -26,7 +25,6 @@ Python_Intro/
 │   └── weitere Dateien...      # CSV, TXT, LOG-Dateien
 ├── 03 doc/                     # Dokumentation
 │   └── PY Skript V3.pdf        # Haupt-Kursskript
-├── .claudeignore               # Claude Code Ignore-Regeln
 ├── LICENSE                     # MIT-Lizenz
 └── README.md                   # Diese Datei
 ```
