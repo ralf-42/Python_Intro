@@ -79,7 +79,7 @@ MyPackage/
 
 
 
-# 5 📄 Lizenz
+# 5 ⚖️ Lizenz
 
 Dieses Projekt steht unter der **MIT-Lizenz** (siehe `LICENSE`-Datei).
 
