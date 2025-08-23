@@ -24,7 +24,7 @@ Python_Intro/
 │   ├── chinook.db              # SQLite-Datenbank
 │   └── weitere Dateien...      # CSV, TXT, LOG-Dateien
 ├── 03 doc/                     # Dokumentation
-│   └── PY Skript V3.pdf        # Haupt-Kursskript
+│   └── PY Skript V3.pdf        # Kursskript
 ├── LICENSE                     # MIT-Lizenz
 └── README.md                   # Diese Datei
 ```
