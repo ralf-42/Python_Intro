@@ -67,7 +67,7 @@ MyPackage/
 ## 3.3 **03 doc/** - Dokumentation
 
 **Verfügbare PDF-Dokumente:**
-- `PY Skript V3.pdf` - Haupt-Kursskript (PDF-Version)
+- `PY Skript V3.pdf` - Kursskript (PDF-Version)
 
 
 # 4 🛠️ Technisches Setup
@@ -83,6 +83,6 @@ MyPackage/
 
 Dieses Projekt steht unter der **MIT-Lizenz** (siehe `LICENSE`-Datei).
 
-**MIT License - Copyright (c) 2024 Ralf**
+**MIT License - Copyright (c) 2025 Ralf**
 
 Die Kursmaterialien können frei verwendet, modifiziert und weiterverbreitet werden.
