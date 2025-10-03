@@ -15,7 +15,8 @@ Python_Intro/
 │   ├── T100-Intro-Python_.ipynb # Tutorial-Version
 │   └── MyPackage/              # Python-Module
 │       ├── MyModul.py          # Hilfsfunktionen
-│       └── Class_Auto.py       # OOP-Beispielklasse
+│       ├── Class_Auto.py       # OOP-Beispielklasse
+│       └── Inspect_Modul.py    # Modul-Inspektion
 ├── 02 data/                    # Übungsdatensätze
 │   ├── titanic.csv             # ML-Datensatz
 │   ├── Kundendaten.json        # JSON-Beispieldaten
@@ -42,7 +43,8 @@ Python_Intro/
 ```
 MyPackage/
 ├── MyModul.py          # Hilfsfunktionen (fib_r, caesar, swap_case)
-└── Class_Auto.py       # OOP-Beispielklasse
+├── Class_Auto.py       # OOP-Beispielklasse
+└── Inspect_Modul.py    # Modul-Inspektion und Analyse
 ```
 
 ## 3.2 **02 data/** - Übungsdatensätze
@@ -72,7 +74,7 @@ MyPackage/
 
 **Systemvoraussetzungen:**
 - Browser mit Internet-Zugang
-- Goggle-Account
+- Google-Account
 - Installation Google Colab
 
 
