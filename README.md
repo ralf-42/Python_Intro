@@ -11,7 +11,6 @@ Dieses Repository enthält Materialien für einen Python-Einführungskurs auf De
 Python_Intro/
 ├── 01 ipynb/                    # Jupyter Notebooks und Python-Module
 │   ├── B000-launch.ipynb        # Kursstart
-│   ├── B030-Gemini-Colab.ipynb # Google Colab Integration
 │   ├── B100-Intro-Python_.ipynb # Python-Grundlagen (Alternative)
 │   ├── T100-Intro-Python_.ipynb # Tutorial-Version
 │   └── MyPackage/              # Python-Module
@@ -36,7 +35,6 @@ Python_Intro/
 
 **Verfügbare Notebooks:**
 - `B000-launch.ipynb` - Kursstart und Einführung
-- `B030-Gemini-Colab.ipynb` - Google Colab Integration  
 - `B100-Intro-Python_.ipynb` - Python-Grundlagen (Alternative Version)
 - `T100-Intro-Python_.ipynb` - Tutorial-Version der Python-Einführung
 
