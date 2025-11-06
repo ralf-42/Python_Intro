@@ -9,35 +9,35 @@ Dieses Repository enthält Materialien für einen Python-Einführungskurs auf De
 
 ```
 Python_Intro/
-├── 01 ipynb/                    # Jupyter Notebooks und Python-Module
+├── 01_notebook/                 # Jupyter Notebooks und Python-Module
 │   ├── B000-launch.ipynb        # Kursstart
-│   ├── B100-Intro-Python_.ipynb # Python-Grundlagen (Alternative)
-│   ├── T100-Intro-Python_.ipynb # Tutorial-Version
-│   └── MyPackage/              # Python-Module
-│       ├── MyModul.py          # Hilfsfunktionen
-│       ├── Class_Auto.py       # OOP-Beispielklasse
-│       └── Inspect_Modul.py    # Modul-Inspektion
-├── 02 data/                    # Übungsdatensätze
-│   ├── titanic.csv             # ML-Datensatz
-│   ├── Kundendaten.json        # JSON-Beispieldaten
-│   ├── Kundendaten.xlsx        # Excel-Beispieldaten
-│   ├── chinook.db              # SQLite-Datenbank
-│   └── weitere Dateien...      # CSV, TXT, LOG-Dateien
-├── 03 doc/                     # Dokumentation
-│   └── PY Skript V3.pdf        # Kursskript
-├── LICENSE                     # MIT-Lizenz
-└── README.md                   # Diese Datei
+│   ├── B100-Intro-Python.ipynb  # Python-Grundlagen
+│   ├── T100-Intro-Python.ipynb  # Tutorial-Version
+│   └── MyPackage/               # Python-Module
+│       ├── MyModul.py           # Hilfsfunktionen
+│       ├── Class_Auto.py        # OOP-Beispielklasse
+│       └── Inspect_Modul.py     # Modul-Inspektion
+├── 02_daten/                    # Übungsdatensätze
+│   ├── titanic.csv              # ML-Datensatz
+│   ├── Kundendaten.json         # JSON-Beispieldaten
+│   ├── Kundendaten.xlsx         # Excel-Beispieldaten
+│   ├── chinook.db               # SQLite-Datenbank
+│   └── weitere Dateien...       # CSV, TXT, LOG-Dateien
+├── 03_skript/                   # Dokumentation und Kursskript
+│   └── PY Skript V3.pdf         # Kursskript
+├── LICENSE                      # MIT-Lizenz
+└── README.md                    # Diese Datei
 ```
 
 # 3 📋 Verfügbare Kursmaterialien
 
 
-## 3.1 **01 ipynb/** - Jupyter Notebooks & Python-Module
+## 3.1 **01_notebook/** - Jupyter Notebooks & Python-Module
 
 **Verfügbare Notebooks:**
 - `B000-launch.ipynb` - Kursstart und Einführung
-- `B100-Intro-Python_.ipynb` - Python-Grundlagen (Alternative Version)
-- `T100-Intro-Python_.ipynb` - Tutorial-Version der Python-Einführung
+- `B100-Intro-Python.ipynb` - Python-Grundlagen
+- `T100-Intro-Python.ipynb` - Tutorial-Version der Python-Einführung
 
 **Python-Module:**
 ```
@@ -47,7 +47,7 @@ MyPackage/
 └── Inspect_Modul.py    # Modul-Inspektion und Analyse
 ```
 
-## 3.2 **02 data/** - Übungsdatensätze
+## 3.2 **02_daten/** - Übungsdatensätze
 
 **CSV/Datenbank-Dateien:**
 - `titanic.csv` - Titanic-Passagierdaten für Machine Learning
@@ -64,7 +64,7 @@ MyPackage/
 - `datei_in.txt` - Textdatei für Datei-I/O-Übungen
 - `logdatei` - Log-Datei für Parsing-Übungen
 
-## 3.3 **03 doc/** - Dokumentation
+## 3.3 **03_skript/** - Dokumentation
 
 **Verfügbare PDF-Dokumente:**
 - `PY Skript V3.pdf` - Kursskript (PDF-Version)
