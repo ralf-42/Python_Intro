@@ -1,9 +1,21 @@
-MIT License
+The MIT License (MIT)
 
-Copyright (c) 2026 Northwind Contributors / Microsoft.
+Copyright (c) 2016 JP White
 
-Die Erlaubnis wird hiermit kostenlos jeder Person erteilt, die eine Kopie dieser Software und der zugehörigen Software erhält Dokumentationsdateien (die "Software"), um die Software uneingeschränkt, einschließlich ohne Einschränkung, zu verarbeiten die Rechte zur Nutzung, Kopierung, Änderung, Zusammenführung, Veröffentlichung, Verbreitung, Unterlizenzierung und/oder Verkauf von Kopien der Software sowie Personen, denen die Software zur Verfügung gestellt wird, dies unter den folgenden Bedingungen zu ermöglichen:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Der obige Urheberrechtshinweis und dieser Erlaubnishinweis sind in allen Kopien oder wesentlichen Teilen der Software enthalten. 
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-DIE SOFTWARE WIRD "WIE SIE IST" BEREITGESTELLT, OHNE JEGLICHE GARANTIE, AUSDRÜCKLICH ODER STILLSCHWEIGEND, EINSCHLIESSLICH, ABER NICHT BESCHRÄNKT AUF, DIE GARANTIEN AUF VERKAUFSFÄHIGKEIT, EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND DIE VERMEIDUNG VON RECHTSVERLETZUNGEN. IN KEINEM FALL HAFTEN DIE AUTOREN ODER URHEBERRECHTSINHABER FÜR ANSPRÜCHE, SCHÄDEN ODER SONSTIGE HAFTUNGEN, SEI ES IN EINER VERTRAGS-, UNERLAUBTEN HANDLUNG ODER ANDERWEITIG, DIE SICH AUS, AUS ODER IM ZUSAMMENHANG MIT DER SOFTWARE ODER DER NUTZUNG ODER ANDEREN GESCHÄFTEN MIT DER SOFTWARE ERGIBT.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
