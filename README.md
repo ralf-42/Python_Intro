@@ -78,10 +78,12 @@ Wiederverwendbare Python-Module, die in den Notebooks importiert werden:
 - Google-Account
 - Google Colab (keine lokale Installation erforderlich)
 
-# 5 ⚖️ Lizenz
+# 5 ⚖️ Lizenzen
 
-Dieses Projekt steht unter der **MIT-Lizenz** (siehe `LICENSE`-Datei).       
+Der **Quellcode** steht unter der [MIT License](./LICENSE).       
 
-**MIT License - Copyright (c) 2025 Ralf**     
+Die **Kursmaterialien** können frei verwendet, modifiziert und weiterverbreitet werden, soweit keine abweichenden Rechte Dritter oder gesonderten Lizenzhinweise angegeben sind.   
 
-Die Kursmaterialien können frei verwendet, modifiziert und weiterverbreitet werden.   
+**Northwind SQLite-Datenbank**: basiert auf Microsofts Northwind-Beispieldatenbank. Die hier verwendete SQLite-Version stammt aus dem Projekt `jpwhite3/northwind-SQLite3` und steht unter der MIT License (Copyright © 2016 JP White); siehe [`Licence NorthwindDB.md`](./02_daten/Licence%20NorthwindDB.md). Microsofts SQL-Server-Samples, einschließlich Northwind/Pubs, stehen ebenfalls unter MIT License (Copyright Microsoft Corporation).   
+
+**Chinook SQLite-Datenbank**: stammt aus dem Projekt `lerocha/chinook-database` und steht unter der MIT License (Copyright © 2008-2024 Luis Rocha); siehe [`Licence ChinookDB.md`](./02_daten/Licence%20ChinookDB.md).   
