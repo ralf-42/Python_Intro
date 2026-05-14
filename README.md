@@ -82,7 +82,7 @@ Wiederverwendbare Python-Module, die in den Notebooks importiert werden:
 
 Der **Quellcode** steht unter der [MIT License](./LICENSE).       
 
-Die **Kursmaterialien** können frei verwendet, modifiziert und weiterverbreitet werden, soweit keine abweichenden Rechte Dritter oder gesonderten Lizenzhinweise angegeben sind.   
+Die **Kursmaterialien** (z. B. Folien, Texte, Grafiken) sind unter der [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) veröffentlicht, soweit nicht anders angegeben.   
 
 **Northwind SQLite-Datenbank**: basiert auf Microsofts Northwind-Beispieldatenbank. Die hier verwendete SQLite-Version stammt aus dem Projekt `jpwhite3/northwind-SQLite3` und steht unter der MIT License (Copyright © 2016 JP White); siehe [`Licence NorthwindDB.md`](./02_daten/Licence%20NorthwindDB.md). Microsofts SQL-Server-Samples, einschließlich Northwind/Pubs, stehen ebenfalls unter MIT License (Copyright Microsoft Corporation).   
 
