@@ -1,11 +1,8 @@
-
 # Python Einführungskurs
-
-# 1 📋 Übersicht
 
 Dieses Repository enthält Materialien für einen Python-Einführungskurs auf Deutsch mit interaktiven Jupyter Notebooks und Übungsdatensätzen.
 
-# 2 🗂️ Repository-Struktur
+## 📁 Projektstruktur
 
 ```
 Python_Intro/
@@ -29,9 +26,9 @@ Python_Intro/
 └── README.md                       # Diese Datei
 ```
 
-# 3 📋 Verfügbare Kursmaterialien
+## 📚 Kursmaterialien
 
-## 3.1 **01_notebook/** - Jupyter Notebooks
+### 01_notebook/ – Jupyter Notebooks
 
 | Notebook | Typ | Beschreibung |
 |----------|-----|--------------|
@@ -39,7 +36,7 @@ Python_Intro/
 | `T101_Intro_Python.ipynb` | Tutorial | Tutorial-Version mit Schritt-für-Schritt-Anleitungen |
 | `X101_Exkurse_Python.ipynb` | Exkurs | Vertiefende Themen und Exkurse |
 
-## 3.2 **02_daten/** - Übungsdatensätze
+### 02_daten/ – Übungsdatensätze
 
 **CSV/Datenbank-Dateien:**
 - `titanic.csv` / `titanic.xlsx` - Titanic-Passagierdaten für ML-Übungen
@@ -57,11 +54,11 @@ Python_Intro/
 - `datei_in.txt` - Textdatei für Datei-I/O-Übungen
 - `logdatei` - Log-Datei für Parsing-Übungen
 
-## 3.3 **03_skript/** - Dokumentation
+### 03_skript/ – Dokumentation
 
 - `PY Skript V3.pdf` - Kursskript (PDF-Version)
 
-## 3.4 **04_modul/** - Python-Module
+### 04_modul/ – Python-Module
 
 Wiederverwendbare Python-Module, die in den Notebooks importiert werden:
 
@@ -71,14 +68,13 @@ Wiederverwendbare Python-Module, die in den Notebooks importiert werden:
 | `class_auto.py` | OOP-Beispielklasse `Auto` für Objektorientierungs-Übungen |
 | `inspect_modul.py` | Modul-Inspektion und Analyse mit `inspect` |
 
-# 4 🛠️ Technisches Setup
+## 🔑 Voraussetzungen
 
-**Systemvoraussetzungen:**
 - Browser mit Internet-Zugang
 - Google-Account
 - Google Colab (keine lokale Installation erforderlich)
 
-# 5 ⚖️ Lizenzen
+## ⚖️ Lizenzen
 
 Der **Quellcode** steht unter der [MIT License](./LICENSE).       
 
@@ -87,3 +83,12 @@ Die **Kursmaterialien** (z. B. Folien, Texte, Grafiken) sind unter der [CC BY 4.
 **Northwind SQLite-Datenbank**: basiert auf Microsofts Northwind-Beispieldatenbank. Die hier verwendete SQLite-Version stammt aus dem Projekt `jpwhite3/northwind-SQLite3` und steht unter der MIT License (Copyright © 2016 JP White); siehe [`Licence NorthwindDB.md`](./02_daten/Licence%20NorthwindDB.md). Microsofts SQL-Server-Samples, einschließlich Northwind/Pubs, stehen ebenfalls unter MIT License (Copyright Microsoft Corporation).   
 
 **Chinook SQLite-Datenbank**: stammt aus dem Projekt `lerocha/chinook-database` und steht unter der MIT License (Copyright © 2008-2024 Luis Rocha); siehe [`Licence ChinookDB.md`](./02_daten/Licence%20ChinookDB.md).   
+
+© 2025–2026 Ralf-42     
+
+> [!NOTE]
+> **Hinweis zur Entstehung:** Bei der Erstellung dieser Unterlagen wurden KI-Werkzeuge unterstützend eingesetzt, unter anderem für Recherche, Strukturierung, Formulierung und einzelne Medien. Die Inhalte wurden anschließend fachlich geprüft, eingeordnet und redaktionell überarbeitet.
+
+---
+
+**Stand:** Oktober 2026     
